@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Appium.WebDriver" Version="8.0.0" />
+    <PackageReference Include="BrowserStack.TestAdapter" Version="0.17.0" />
+    <PackageReference Include="Google.Cloud.Translation.V2" Version="3.4.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.10.0" />
+    <PackageReference Include="Reqnroll.NUnit" Version="2.2.1" />
+    <PackageReference Include="nunit" Version="3.14.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.5.0" />
+    <PackageReference Include="Selenium.Support" Version="4.34.0" />
+    <PackageReference Include="Selenium.WebDriver" Version="4.34.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Support\" />
+  </ItemGroup>
+
+</Project>

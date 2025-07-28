@@ -1,0 +1,147 @@
+[2025-07-28T17:00:54.0660917Z][ERROR] :: Unable to parse Driver Capabilities due to Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure, CallSite, Object)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at TestObservability.Model.CBT.Driver..ctor(Object driver) 
+[2025-07-28T17:00:54.0715341Z][INFO] :: FRAMEWORK FOUND :: Reqnroll-nunit 
+[2025-07-28T17:00:54.0764696Z][INFO] :: CRASH REPORT :: 
+ {
+  "exception": {},
+  "config": {},
+  "hashed_id": "0fy0ud5iupa6vn4kdg4j1rkuitijhdkd1sqv2yvh",
+  "observability_version": {
+    "frameworkName": "Reqnroll-nunit",
+    "sdkVersion": "1.20.0",
+    "frameworkVersion": "2.2.1 - 3.14.0"
+  }
+} 
+[2025-07-28T17:00:55.2765798Z][ERROR] :: Error While Receiving Driver Object Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure, CallSite, Object)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at TestObservability.Model.CBT.Driver..ctor(Object driver)
+   at CallSite.Target(Closure, CallSite, Type, Object)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at TestObservability.EventsHandler.LogEventsHandler.ReceiveDriver(Object driver) 
+[2025-07-28T17:00:55.7886257Z][ERROR] :: Unable to parse Driver Capabilities due to Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure, CallSite, Object)
+   at TestObservability.Model.CBT.Driver..ctor(Object driver) 
+[2025-07-28T17:00:55.7899467Z][INFO] :: FRAMEWORK FOUND :: Reqnroll-nunit 
+[2025-07-28T17:00:55.7907626Z][INFO] :: CRASH REPORT :: 
+ {
+  "exception": {},
+  "config": {},
+  "hashed_id": "0fy0ud5iupa6vn4kdg4j1rkuitijhdkd1sqv2yvh",
+  "observability_version": {
+    "frameworkName": "Reqnroll-nunit",
+    "sdkVersion": "1.20.0",
+    "frameworkVersion": "2.2.1 - 3.14.0"
+  }
+} 
+[2025-07-28T17:00:56.9139945Z][ERROR] :: Error While Receiving Driver Object Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure, CallSite, Object)
+   at TestObservability.Model.CBT.Driver..ctor(Object driver)
+   at CallSite.Target(Closure, CallSite, Type, Object)
+   at TestObservability.EventsHandler.LogEventsHandler.ReceiveDriver(Object driver) 
+[2025-07-28T17:00:56.9172804Z][ERROR] :: Unable to parse Driver Capabilities due to Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure, CallSite, Object)
+   at TestObservability.Model.CBT.Driver..ctor(Object driver) 
+[2025-07-28T17:00:56.9180957Z][INFO] :: FRAMEWORK FOUND :: Reqnroll-nunit 
+[2025-07-28T17:00:56.9186379Z][INFO] :: CRASH REPORT :: 
+ {
+  "exception": {},
+  "config": {},
+  "hashed_id": "0fy0ud5iupa6vn4kdg4j1rkuitijhdkd1sqv2yvh",
+  "observability_version": {
+    "frameworkName": "Reqnroll-nunit",
+    "sdkVersion": "1.20.0",
+    "frameworkVersion": "2.2.1 - 3.14.0"
+  }
+} 
+[2025-07-28T17:00:57.8370970Z][ERROR] :: Error While Receiving Driver Object Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure, CallSite, Object)
+   at TestObservability.Model.CBT.Driver..ctor(Object driver)
+   at CallSite.Target(Closure, CallSite, Type, Object)
+   at TestObservability.EventsHandler.LogEventsHandler.ReceiveDriver(Object driver) 
+[2025-07-28T17:00:57.8394355Z][ERROR] :: Unable to parse Driver Capabilities due to Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure, CallSite, Object)
+   at TestObservability.Model.CBT.Driver..ctor(Object driver) 
+[2025-07-28T17:00:57.8407969Z][INFO] :: FRAMEWORK FOUND :: Reqnroll-nunit 
+[2025-07-28T17:00:57.8415680Z][INFO] :: CRASH REPORT :: 
+ {
+  "exception": {},
+  "config": {},
+  "hashed_id": "0fy0ud5iupa6vn4kdg4j1rkuitijhdkd1sqv2yvh",
+  "observability_version": {
+    "frameworkName": "Reqnroll-nunit",
+    "sdkVersion": "1.20.0",
+    "frameworkVersion": "2.2.1 - 3.14.0"
+  }
+} 
+[2025-07-28T17:00:58.6545465Z][ERROR] :: Error While Receiving Driver Object Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure, CallSite, Object)
+   at TestObservability.Model.CBT.Driver..ctor(Object driver)
+   at CallSite.Target(Closure, CallSite, Type, Object)
+   at TestObservability.EventsHandler.LogEventsHandler.ReceiveDriver(Object driver) 
+[2025-07-28T17:00:58.6583350Z][ERROR] :: Unable to parse Driver Capabilities due to Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure, CallSite, Object)
+   at TestObservability.Model.CBT.Driver..ctor(Object driver) 
+[2025-07-28T17:00:58.6595272Z][INFO] :: FRAMEWORK FOUND :: Reqnroll-nunit 
+[2025-07-28T17:00:58.6609569Z][INFO] :: CRASH REPORT :: 
+ {
+  "exception": {},
+  "config": {},
+  "hashed_id": "0fy0ud5iupa6vn4kdg4j1rkuitijhdkd1sqv2yvh",
+  "observability_version": {
+    "frameworkName": "Reqnroll-nunit",
+    "sdkVersion": "1.20.0",
+    "frameworkVersion": "2.2.1 - 3.14.0"
+  }
+} 
+[2025-07-28T17:00:59.4736297Z][ERROR] :: Error While Receiving Driver Object Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure, CallSite, Object)
+   at TestObservability.Model.CBT.Driver..ctor(Object driver)
+   at CallSite.Target(Closure, CallSite, Type, Object)
+   at TestObservability.EventsHandler.LogEventsHandler.ReceiveDriver(Object driver) 
+[2025-07-28T17:00:59.4760482Z][ERROR] :: Unable to parse Driver Capabilities due to Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure, CallSite, Object)
+   at TestObservability.Model.CBT.Driver..ctor(Object driver) 
+[2025-07-28T17:00:59.4770460Z][INFO] :: FRAMEWORK FOUND :: Reqnroll-nunit 
+[2025-07-28T17:00:59.4777890Z][INFO] :: CRASH REPORT :: 
+ {
+  "exception": {},
+  "config": {},
+  "hashed_id": "0fy0ud5iupa6vn4kdg4j1rkuitijhdkd1sqv2yvh",
+  "observability_version": {
+    "frameworkName": "Reqnroll-nunit",
+    "sdkVersion": "1.20.0",
+    "frameworkVersion": "2.2.1 - 3.14.0"
+  }
+} 
+[2025-07-28T17:01:00.3953308Z][ERROR] :: Error While Receiving Driver Object Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure, CallSite, Object)
+   at TestObservability.Model.CBT.Driver..ctor(Object driver)
+   at CallSite.Target(Closure, CallSite, Type, Object)
+   at TestObservability.EventsHandler.LogEventsHandler.ReceiveDriver(Object driver) 
+[2025-07-28T17:01:07.0131686Z][ERROR] :: Unable to parse Driver Capabilities due to Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: O. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at BrowserStackSDK.TestObservability.Model.CBT.Driver..ctor(Object driver) 
+[2025-07-28T17:01:07.0540974Z][INFO] :: Product linked to Observability:: automate 
+[2025-07-28T17:01:07.0617542Z][INFO] :: Remote Session Found :: True 
+[2025-07-28T17:01:07.0712853Z][INFO] :: FRAMEWORK FOUND :: Reqnroll-nunit 
+[2025-07-28T17:01:07.0730986Z][INFO] :: CRASH REPORT :: 
+ {
+  "exception": {},
+  "config": {},
+  "hashed_id": "0fy0ud5iupa6vn4kdg4j1rkuitijhdkd1sqv2yvh",
+  "observability_version": {
+    "frameworkName": "Reqnroll-nunit",
+    "sdkVersion": "1.20.0",
+    "frameworkVersion": "2.2.1 - 3.14.0"
+  }
+} 
+[2025-07-28T17:01:07.8702937Z][ERROR] :: Error While Receiving Driver Object System.NullReferenceException: Object reference not set to an instance of an object.
+   at BrowserStackSDK.TestObservability.EventsHandler.LogEventsHandler.ReceiveDriver(Object driver, String fullyQualifiedName, String displayName) 
+[2025-07-28T17:01:33.1637858Z][INFO] :: All events uploaded successfully for current test 

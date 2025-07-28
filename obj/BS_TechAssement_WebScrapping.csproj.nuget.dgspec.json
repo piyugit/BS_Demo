@@ -1,0 +1,111 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Piyus\\source\\repos\\BS_TechAssement_WebScrapping\\BS_TechAssement_WebScrapping\\BS_TechAssement_WebScrapping.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Piyus\\source\\repos\\BS_TechAssement_WebScrapping\\BS_TechAssement_WebScrapping\\BS_TechAssement_WebScrapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Piyus\\source\\repos\\BS_TechAssement_WebScrapping\\BS_TechAssement_WebScrapping\\BS_TechAssement_WebScrapping.csproj",
+        "projectName": "BS_TechAssement_WebScrapping",
+        "projectPath": "C:\\Users\\Piyus\\source\\repos\\BS_TechAssement_WebScrapping\\BS_TechAssement_WebScrapping\\BS_TechAssement_WebScrapping.csproj",
+        "packagesPath": "C:\\Users\\Piyus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Piyus\\source\\repos\\BS_TechAssement_WebScrapping\\BS_TechAssement_WebScrapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Piyus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Appium.WebDriver": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "BrowserStack.TestAdapter": {
+              "target": "Package",
+              "version": "[0.17.0, )"
+            },
+            "Google.Cloud.Translation.V2": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Reqnroll.NUnit": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.34.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.34.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+userName: piyushjain_eIH9ho
+accessKey: VkxoiaXLWcCxTC331q6n
+buildName: "Automation Task"
+projectName: "Technical Assignment"
+CUSTOM_TAG_1: "You can set a custom Build Tag here"
+# Use CUSTOM_TAG_<N> and set more build tags as you need.
+testObservability: false
+browserstackAutomation: false # Set to true for tests on BrowserStack products.

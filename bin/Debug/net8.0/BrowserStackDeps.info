@@ -1,0 +1,105 @@
+
+Project 'BS_TechAssement_WebScrapping' has the following package references
+   [net8.0]: 
+   Top-level Package                  Requested   Resolved
+   > Appium.WebDriver                 8.0.0       8.0.0   
+   > BrowserStack.TestAdapter         0.17.0      0.17.0  
+   > Google.Cloud.Translation.V2      3.4.0       3.4.0   
+   > Microsoft.NET.Test.Sdk           17.10.0     17.10.0 
+   > nunit                            3.14.0      3.14.0  
+   > NUnit3TestAdapter                4.5.0       4.5.0   
+   > Reqnroll.NUnit                   2.2.1       2.2.1   
+   > Selenium.Support                 4.34.0      4.34.0  
+   > Selenium.WebDriver               4.34.0      4.34.0  
+
+   Transitive Package                                           Resolved           
+   > Castle.Core                                                4.3.1              
+   > Cucumber.CucumberExpressions                               17.1.0             
+   > Gherkin                                                    30.0.0             
+   > Google.Api.Gax                                             4.8.0              
+   > Google.Api.Gax.Rest                                        4.8.0              
+   > Google.Apis                                                1.67.0             
+   > Google.Apis.Auth                                           1.67.0             
+   > Google.Apis.Core                                           1.67.0             
+   > Google.Apis.Translate.v2                                   1.67.0.875         
+   > Google.Protobuf                                            3.30.2             
+   > Grpc.Core.Api                                              2.71.0             
+   > Grpc.Net.Client                                            2.71.0             
+   > Grpc.Net.Common                                            2.71.0             
+   > Grpc.Tools                                                 2.71.0             
+   > Lib.Harmony                                                2.3.0-prerelease.5 
+   > Microsoft.Bcl.AsyncInterfaces                              6.0.0              
+   > Microsoft.CodeAnalysis.Analyzers                           3.3.4              
+   > Microsoft.CodeAnalysis.Common                              4.7.0              
+   > Microsoft.CodeAnalysis.CSharp                              4.7.0              
+   > Microsoft.CodeCoverage                                     17.10.0            
+   > Microsoft.CSharp                                           4.7.0              
+   > Microsoft.Extensions.DependencyInjection.Abstractions      6.0.0              
+   > Microsoft.Extensions.DependencyModel                       8.0.2              
+   > Microsoft.Extensions.Logging.Abstractions                  6.0.0              
+   > Microsoft.NETCore.Platforms                                1.1.0              
+   > Microsoft.NETCore.Targets                                  1.1.0              
+   > Microsoft.TestPlatform.ObjectModel                         17.10.0            
+   > Microsoft.TestPlatform.TestHost                            17.10.0            
+   > Microsoft.Win32.SystemEvents                               8.0.0              
+   > Mono.Cecil                                                 0.11.5             
+   > MonoMod.Backports                                          1.1.0-prerelease.2 
+   > MonoMod.Core                                               1.1.0-prerelease.2 
+   > MonoMod.ILHelpers                                          1.0.1-prerelease.2 
+   > MonoMod.Utils                                              25.0.3-prerelease.2
+   > NETStandard.Library                                        2.0.0              
+   > Newtonsoft.Json                                            13.0.3             
+   > NLog                                                       5.0.4              
+   > PercyIO.Appium                                             3.0.2              
+   > Reqnroll                                                   2.2.1              
+   > Reqnroll.Tools.MsBuild.Generation                          2.2.1              
+   > runtime.native.System                                      4.3.0              
+   > Serilog                                                    2.0.0              
+   > SpecFlow.Internal.Json                                     1.0.8              
+   > System.CodeDom                                             7.0.0              
+   > System.Collections                                         4.3.0              
+   > System.Collections.Immutable                               7.0.0              
+   > System.Collections.NonGeneric                              4.3.0              
+   > System.Collections.Specialized                             4.3.0              
+   > System.ComponentModel                                      4.3.0              
+   > System.ComponentModel.Primitives                           4.3.0              
+   > System.ComponentModel.TypeConverter                        4.3.0              
+   > System.Diagnostics.Debug                                   4.3.0              
+   > System.Diagnostics.TraceSource                             4.3.0              
+   > System.Drawing.Common                                      8.0.10             
+   > System.Dynamic.Runtime                                     4.3.0              
+   > System.Globalization                                       4.3.0              
+   > System.Globalization.Extensions                            4.3.0              
+   > System.IO                                                  4.3.0              
+   > System.IO.FileSystem                                       4.3.0              
+   > System.IO.FileSystem.Primitives                            4.3.0              
+   > System.Linq                                                4.3.0              
+   > System.Linq.Expressions                                    4.3.0              
+   > System.Management                                          7.0.2              
+   > System.ObjectModel                                         4.3.0              
+   > System.Reflection                                          4.3.0              
+   > System.Reflection.Emit                                     4.3.0              
+   > System.Reflection.Emit.ILGeneration                        4.3.0              
+   > System.Reflection.Emit.Lightweight                         4.3.0              
+   > System.Reflection.Extensions                               4.3.0              
+   > System.Reflection.Metadata                                 7.0.0              
+   > System.Reflection.Primitives                               4.3.0              
+   > System.Reflection.TypeExtensions                           4.3.0              
+   > System.Resources.ResourceManager                           4.3.0              
+   > System.Runtime                                             4.3.0              
+   > System.Runtime.CompilerServices.Unsafe                     6.0.0              
+   > System.Runtime.Extensions                                  4.3.0              
+   > System.Runtime.Handles                                     4.3.0              
+   > System.Runtime.InteropServices                             4.3.0              
+   > System.Runtime.Loader                                      4.3.0              
+   > System.Text.Encoding                                       4.3.0              
+   > System.Text.Encoding.Extensions                            4.3.0              
+   > System.Text.Encodings.Web                                  8.0.0              
+   > System.Text.Json                                           8.0.1              
+   > System.Text.RegularExpressions                             4.3.0              
+   > System.Threading                                           4.3.0              
+   > System.Threading.Tasks                                     4.3.0              
+   > System.Threading.Tasks.Extensions                          4.3.0              
+   > System.Xml.ReaderWriter                                    4.3.0              
+   > System.Xml.XmlDocument                                     4.3.0              
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <RunConfiguration>
+    <EnvironmentVariables>
+     <USE_BROWSERSTACK>true</USE_BROWSERSTACK>
+	<BROWSERSTACK_DISABLE_PLUGIN>true</BROWSERSTACK_DISABLE_PLUGIN>
+    </EnvironmentVariables>
+  </RunConfiguration>
+</RunSettings>
