@@ -17,7 +17,7 @@
     #Given I visit the El País homepage on <Browsers>
     Then I verify the page is displayed in Spanish
     When I navigate to the Opinion section
-    And I fetch the first 1 articles
+    And I fetch the first 5 articles
     Then I print the Spanish titles and content of each article
     And I download the cover image of each article if available
     When I translate each article title to English
